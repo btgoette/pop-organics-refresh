@@ -247,7 +247,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pop-organics-making-coffee.jpg",
+        "image": "shopify:\/\/shop_images\/pop-bodywash.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -257,7 +257,7 @@
         "color_scheme": "accent-1",
         "mobile_content_alignment": "left",
         "padding_top": 60,
-        "padding_bottom": 60
+        "padding_bottom": 16
       }
     },
     "featured-collection-0": {
