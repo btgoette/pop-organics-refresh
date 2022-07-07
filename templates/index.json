@@ -299,12 +299,13 @@
         "1657229904b19967f1-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Introducing P.O.P. Organics Cafe. Now serving Organic Coffee, Herbal Teas, & Healthy Shakes.",
             "text_style": "body"
           }
         },
         "1657229904b19967f1-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "",
