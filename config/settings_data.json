@@ -128,7 +128,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/pop-logo-side-text_ba5da08f-33a6-434e-a58a-14f53abe5f76.png",
-          "logo_width": 200,
+          "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
