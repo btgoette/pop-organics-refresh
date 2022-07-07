@@ -27,14 +27,18 @@
           <div class="newsletter__subheading rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
         {%- when 'email_form' -%}
           <div {{ block.shopify_attributes }}>
-            {% form 'customer', class: 'newsletter-form' %}
+            {% form 'customer', class: 'newsletter-form', action: 'https://forms.ontraport.com/v2.4/form_processor.php?'  %}
               <input type="hidden" name="contact[tags]" value="newsletter">
               <div class="newsletter-form__field-wrapper">
                 <div class="field">
+                  <input class="field__input" autocomplete="name" type="text" id="mr-field-element-162403318911" name="firstname" value="" aria-required="true" placeholder="First Name" required>
+                  <label class="field__label" for="ContactForm-first_name">{{ 'customer.register.first_name' | t }}</label>
+                </div>
+                <div class="field">
                   <input
-                    id="NewsletterForm--{{ section.id }}"
+                    id="mr-field-element-671873808685"
                     type="email"
-                    name="contact[email]"
+                    name="email"
                     class="field__input"
                     value="{{ form.email }}"
                     aria-required="true"
@@ -54,9 +58,38 @@
                   <label class="field__label" for="NewsletterForm--{{ section.id }}">
                     {{ 'newsletter.label' | t }}
                   </label>
-                  <button type="submit" class="newsletter-form__button field__button" name="commit" id="Subscribe" aria-label="{{ 'newsletter.button_label' | t }}">
+                  <button type="submit" class="newsletter-form__button field__button" name="commit" id="Subscribe mr-field-element-854969316082" aria-label="{{ 'newsletter.button_label' | t }}">
                     {% render 'icon-arrow' %}
                   </button>
+                  <input name="afft_" type="hidden" value="" />
+                  <input name="aff_" type="hidden" value="" />
+                  <input name="sess_" type="hidden" value="" />
+                  <input name="ref_" type="hidden" value="" />
+                  <input name="own_" type="hidden" value="" />
+                  <input name="oprid" type="hidden" value="" />
+                  <input name="contact_id" type="hidden" value="" />
+                  <input name="utm_source" type="hidden" value="" />
+                  <input name="utm_medium" type="hidden" value="" />
+                  <input name="utm_term" type="hidden" value="" />
+                  <input name="utm_content" type="hidden" value="" />
+                  <input name="utm_campaign" type="hidden" value="" />
+                  <input name="referral_page" type="hidden" value="" />
+                  <input name="_op_gclid" type="hidden" value="" />
+                  <input name="_op_gcid" type="hidden" value="" />
+                  <input name="_fbc" type="hidden" value="" />
+                  <input name="_fbp" type="hidden" value="" />
+                  <input name="uid" type="hidden" value="p2c240683f12" />
+                  <input name="uniquep2c240683f12" type="hidden" value="0" />
+                  <input
+                    name="mopsbbk"
+                    type="hidden"
+                    value="7107A76750E470317A0ECA8E:ECD28542F8FCBE6B60528F82"
+                  />
+                  <input
+                    name="mopbelg"
+                    type="hidden"
+                    value="0150517:3290ECC106D486BA10F1F179:AEBA7E491EE603B0A2A15B7A"
+                  />
                 </div>
                 {%- if form.errors -%}
                   <small class="newsletter-form__message form__message" id="Newsletter-error--{{ section.id }}">{% render 'icon-error' %}{{ form.errors.translated_fields['email'] | capitalize }} {{ form.errors.messages['email'] }}</small>
