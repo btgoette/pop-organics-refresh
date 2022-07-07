@@ -164,7 +164,7 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Shop now",
+            "button_label": "Shop Aromatherapy",
             "button_link": "shopify:\/\/collections\/scents"
           }
         }
