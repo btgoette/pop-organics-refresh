@@ -145,6 +145,7 @@
           "image": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/pop-organics-logo.png",
               "image_width": 200,
               "alignment": "center"
             }
