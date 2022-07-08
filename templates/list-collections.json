@@ -24,6 +24,7 @@
         "dc47eadf-4456-4bb3-aae9-1ad025c37432": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/all-supplements.jpg",
             "heading": "Supplements",
             "heading_size": "h1",
             "subheading": "All Natural Vitamins and Dietary Supplements",
@@ -59,6 +60,7 @@
         "e8698193-e61a-4d7c-a5e2-fa6d5f98cbbc": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/pop-cbd-oil.png",
             "heading": "CBD",
             "heading_size": "h1",
             "subheading": "CBD Oil, Body Butter",
