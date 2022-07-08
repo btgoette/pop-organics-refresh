@@ -24,7 +24,6 @@
         "slide-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/khristal-calming-shampoo.jpg",
             "heading": "Khristal Calming Herbal Shampoo",
             "heading_size": "h2",
             "subheading": "Introducing our Khristal Calming Herbal Shampoo infused with Rosemary oils, Jojoba oils, and other natural organic ingredients.",
@@ -42,7 +41,6 @@
         "slide-2": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/all-supplements.jpg",
             "heading": "All Natural Supplements",
             "heading_size": "h2",
             "subheading": "Explore our collection of our High Quality Natural Herbal Supplements.",
@@ -104,7 +102,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pop-inventory.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -175,7 +172,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pop-organics-aromatherapy-display-2.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -246,7 +242,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pop-bodywash.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -322,8 +317,6 @@
         "1657229904b19967f1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pop-coffee-1.jpg",
-        "image_2": "shopify:\/\/shop_images\/pop-coffee-2_38df71ee-523f-4c16-9387-78bbc201c470.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,

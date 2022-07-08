@@ -127,6 +127,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/pop-logo-side-text_1f43dcee-914b-475d-9932-d6333c4d2380.png",
           "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -144,7 +145,6 @@
           "image": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/pop-organics-logo.png",
               "image_width": 200,
               "alignment": "center"
             }
