@@ -24,6 +24,7 @@
         "slide-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/khristal-calming-shampoo.jpg",
             "heading": "Khristal Calming Herbal Shampoo",
             "heading_size": "h2",
             "subheading": "Introducing our Khristal Calming Herbal Shampoo infused with Rosemary oils, Jojoba oils, and other natural organic ingredients.",
@@ -41,6 +42,7 @@
         "slide-2": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/all-supplements.jpg",
             "heading": "All Natural Supplements",
             "heading_size": "h2",
             "subheading": "Explore our collection of our High Quality Natural Herbal Supplements.",
