@@ -24,7 +24,7 @@
         "dc47eadf-4456-4bb3-aae9-1ad025c37432": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/all-supplements.jpg",
+            "image": "shopify:\/\/shop_images\/supplements.jpg",
             "heading": "Supplements",
             "heading_size": "h1",
             "subheading": "All Natural Vitamins and Dietary Supplements",
@@ -65,7 +65,7 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "small",
+        "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
