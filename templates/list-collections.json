@@ -52,17 +52,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "rich-text-0": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "main": {
       "type": "main-list-collections",
       "settings": {
@@ -71,17 +60,6 @@
         "image_ratio": "square",
         "columns_desktop": 4,
         "columns_mobile": "1"
-      }
-    },
-    "1657300090e75143bf": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "newsletter": {
@@ -121,9 +99,7 @@
   },
   "order": [
     "slideshow",
-    "rich-text-0",
     "main",
-    "1657300090e75143bf",
     "newsletter"
   ]
 }
