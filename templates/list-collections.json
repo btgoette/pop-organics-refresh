@@ -13,7 +13,7 @@
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "top-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 10,
@@ -24,7 +24,6 @@
         "dc47eadf-4456-4bb3-aae9-1ad025c37432": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/supplements.jpg",
             "heading": "Supplements",
             "heading_size": "h1",
             "subheading": "All Natural Vitamins and Dietary Supplements",
@@ -42,7 +41,6 @@
         "99114b12-a348-46a4-86d7-9a01149a123b": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/scents.jpg",
             "heading": "Aromatherapy",
             "heading_size": "h1",
             "subheading": "Candles, Diffusers, Sprays",
@@ -60,7 +58,6 @@
         "e8698193-e61a-4d7c-a5e2-fa6d5f98cbbc": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pop-cbd-oil_125c4d5e-a010-48fd-b7f4-c4982869f4ad.png",
             "heading": "CBD",
             "heading_size": "h1",
             "subheading": "CBD Oil, Body Butter",
