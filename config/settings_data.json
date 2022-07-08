@@ -83,14 +83,14 @@
     "sale_badge_color_scheme": "accent-1",
     "sold_out_badge_color_scheme": "background-1",
     "accent_icons": "text",
-    "social_twitter_link": "https:\/\/twitter.com\/shopify",
-    "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+    "social_twitter_link": "https:\/\/twitter.com\/HolisticJohnson?fbclid=IwAR2uYxJyEIDktPtLBoxoe4F2kPFUn1IhlFolztiTNCYRM-O52rj_yk0WmPU",
+    "social_facebook_link": "https:\/\/www.facebook.com\/jjholisticnutritionaltherapy\/",
     "social_pinterest_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/shopify",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@shopify",
+    "social_instagram_link": "https:\/\/www.instagram.com\/jj.holisticnutritionaltherapy\/",
+    "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "social_youtube_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
@@ -127,7 +127,6 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/pop-logo-side-text_ba5da08f-33a6-434e-a58a-14f53abe5f76.png",
           "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -145,7 +144,6 @@
           "image": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/pop-organics-logo.png",
               "image_width": 200,
               "alignment": "center"
             }
