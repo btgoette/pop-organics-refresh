@@ -9,15 +9,15 @@
             "image": "{{ collection.image }}",
             "heading": "{{ collection.title }}",
             "heading_size": "h0",
-            "subheading": "Describe this collection: tell your customers about what types of products they'll find here, and what makes them unique.",
+            "subheading": "",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-left",
+            "box_align": "middle-center",
             "show_text_box": true,
-            "text_alignment": "left",
+            "text_alignment": "center",
             "image_overlay_opacity": 10,
-            "color_scheme": "background-1",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "left"
           }
         }
