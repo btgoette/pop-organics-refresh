@@ -33,6 +33,11 @@
   max-width: 36rem;
 }
 
+
+.newsletter__wrapper .newsletter-form__field-wrapper .field {
+  margin-bottom: 8px;
+}
+
 .newsletter-form__field-wrapper .newsletter-form__message {
   margin-top: 1.5rem;
 }
