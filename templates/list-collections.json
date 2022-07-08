@@ -42,17 +42,18 @@
         "e8698193-e61a-4d7c-a5e2-fa6d5f98cbbc": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/pop-cbd-oil_125c4d5e-a010-48fd-b7f4-c4982869f4ad.png",
+            "heading": "CBD",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "CBD Oil, Body Butter",
+            "button_label": "Shop CBD",
+            "link": "shopify:\/\/collections\/cbd",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         }
