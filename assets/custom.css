@@ -1,0 +1,99 @@
+.bg-white {
+  background-color: #fefffe;
+}
+
+.border {
+  border-radius: 20px;
+  box-shadow: var(--text-boxes-shadow-horizontal-offset)
+    var(--text-boxes-shadow-vertical-offset)
+    var(--text-boxes-shadow-blur-radius)
+    rgba(var(--color-shadow), var(--text-boxes-shadow-opacity));
+}
+
+.p-4 {
+  padding: 2rem !important;
+}
+
+.fieldset {
+  padding: 1rem 0 0;
+  display: flex;
+  width: 100%;
+  align-items: start;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.fieldset div {
+  flex-grow: 1;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.text-dark {
+  color: #333;
+}
+
+.custom-form label {
+  font-weight: 400;
+  display: block;
+  margin-right: 1rem;
+  color: #333;
+}
+
+.custom-form h3 {
+  font-size: 2rem;
+  margin: 0 0 1rem;
+}
+
+.custom-form input[type="email"],
+.custom-form input[type="text"],
+.custom-form input[type="tel"] {
+  width: 100%;
+}
+
+.custom-form input:not([type="submit"]),
+.custom-form textarea {
+  cursor: text;
+  margin: 0;
+  border-width: 1px;
+  border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+  -o-border-image: none;
+  border-image: none;
+  -o-border-image: initial;
+  border-image: initial;
+  background-color: #fff;
+  padding: 10px 1rem;
+  border-radius: 5px;
+}
+
+.custom-form input[type="date"] {
+  width: 220px;
+}
+
+.custom-form select {
+  background-color: #fff;
+  margin: 0;
+  width: 100%;
+  max-width: 320px;
+  padding: 8px 1rem;
+  border-radius: 5px;
+}
+
+.custom-form input[type="checkbox"],
+.custom-form input[type="radio"] {
+  align-self: center;
+  margin: 0 0.25rem;
+}
+
+.custom-form .required {
+  color: #d40000;
+}
+
+.custom-form textarea {
+  width: 100%;
+  min-height: 110px;
+}
+
+.custom-form {
+  margin-bottom: 4rem;
+}
