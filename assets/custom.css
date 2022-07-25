@@ -67,6 +67,10 @@
   min-height: 40px;
 }
 
+.custom-form input[type="file"] {
+  background-color: transparent;
+}
+
 .custom-form input[type="date"] {
   width: 220px;
 }
